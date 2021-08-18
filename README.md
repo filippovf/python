@@ -1,6 +1,8 @@
 # python
 Aprendendo Python. Versão 3. Anotações do curso básico de Python do Samsung Ocean (https://www.oceanbrasil.com/).
 
+O Colab está nos arquivos também!
+
 * TiposDeDados
   * Tipos de dados em Python - string, int, float, complex e boolean.
 * Variáveis
