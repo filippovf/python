@@ -3,6 +3,17 @@ Aprendendo Python. Versão 3. Anotações do curso básico de Python do Samsung 
 
 O Colab está nos arquivos também e contém todo o material do primeiro curso!
 
+* Bhaskara
+  * Resolve equação de 2º grau. Usa condicionais (if, elif, else).
+* Gorjeta
+  * Usa função com retorno.
+* Fibonacci
+  * Usa laço.
+
+-----------------------------------------------------------------------------------------
+
+Outros exemplos do início do curso (checar arquivo do Colab para mais tópicos):
+
 * TiposDeDados
   * Tipos de dados em Python - string, int, float, complex e boolean.
 * Variáveis
