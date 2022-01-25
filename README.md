@@ -9,6 +9,8 @@ O Colab está nos arquivos também e contém todo o material do primeiro curso!
   * Usa função com retorno.
 * Fibonacci
   * Usa laço.
+ * notas
+   * Programa que calcula notas de alunos, com um laço While e uma função para apontar os reprovados. Mini-curso do Senac com o prof. Gustavo Calixto.
 
 -----------------------------------------------------------------------------------------
 
