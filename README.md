@@ -1,5 +1,5 @@
 # python
-Aprendendo Python. Versão 3. Anotações do curso básico de Python do Samsung Ocean (https://www.oceanbrasil.com/).
+Aprendendo Python. Versão 3. Anotações do curso básico de Python do Samsung Ocean (https://www.oceanbrasil.com/) e alguns exemplos de outros cursos.
 
 O Colab está nos arquivos também e contém todo o material do primeiro curso!
 
